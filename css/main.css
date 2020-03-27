@@ -42,16 +42,3 @@ ul.posts li {
     list-style: none;
 }
 
-<style>
-
-#content-wrapper{
-  display:table;
-}
-
-#content{
-  display:table-row;
-}
-
-#content>div{
-  display:table-cell
-}
